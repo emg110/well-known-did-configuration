@@ -6,7 +6,7 @@ This repo contains proposals and links to proposals for `.well-known` uris relat
 
 ## .well-known/did-configuration.json
 
-- [Spec](https://identity.foundation/.well-known/resources/did-configuration/)
+- [Spec](https://identity.foundation/well-known-did-configuraton/resources/did-configuration/)
 - [Example](https://identity.foundation/.well-known/did-configuration.json)
 
 Contact: public-credentials@w3.org 
