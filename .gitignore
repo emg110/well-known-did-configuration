@@ -1,3 +1,4 @@
 node_modules
 .vscode
 attic
+.DS_Store
