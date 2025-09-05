@@ -1,4 +1,4 @@
-#### [View on GitHub](https://github.com/decentralized-identity/.well-known)
+#### [View on GitHub](https://github.com/decentralized-identity/well-known-did-configuraton)
 
 This repo contains proposals and links to proposals for `.well-known` uris related to DIDs, Hubs and Agents. See IETF [RFC5785](https://tools.ietf.org/html/rfc5785) for more details on Defining Well-Known Uniform Resource Identifiers.
 
@@ -22,7 +22,7 @@ Contact: public-credentials@w3.org
 
 - [W3C Decentralized Identifier Specification v1.0](https://github.com/w3c/did-core)
 - [Home page of the Decentralized Identifier Working Group](https://github.com/w3c/did-wg)
-- [Specs and documentation for all DID-related /.well-known resources](https://github.com/decentralized-identity/.well-known)
+- [Specs and documentation for all DID-related /.well-known resources](https://github.com/decentralized-identity/well-known-did-configuraton)
 - [W3C Decentralized Characteristics Rubric v1.0](https://github.com/w3c/did-rubric)
 - [Decentralized Identifier Use Cases v1.0](https://github.com/w3c/did-use-cases)
 - [W3C DID Test Suite and Implementation Report](https://github.com/w3c/did-test-suite)
